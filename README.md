@@ -1,2 +1,2 @@
 # Country-Division
-This project is related to the division of countries For donations
+This project is related to the clustering of countries for financial aid
